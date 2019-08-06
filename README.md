@@ -4,7 +4,7 @@ Racial disparities in income and poverty remain stark, and in some cases, are ge
 * [What is this?](#what-is-this)
 * [Assumptions](#assumptions)
 * [How to reproduce](#how-to-reproduce)
-* [Data caveats](#data-caveats)
+* [Data](#data)
 
 What is this?
 -------------
